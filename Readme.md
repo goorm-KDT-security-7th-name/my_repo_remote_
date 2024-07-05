@@ -1,1 +1,2 @@
-## 설명서 \n - remote repository test
+## 설명서 
+- remote repository test
